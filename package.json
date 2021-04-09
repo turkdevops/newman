@@ -62,7 +62,7 @@
     "xmlbuilder": "15.1.1"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "dockerfile_lint": "^0.3.4",
     "editorconfig": "^0.15.3",
     "eslint": "^7.17.0",
