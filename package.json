@@ -51,7 +51,7 @@
     "lodash": "4.17.21",
     "mkdirp": "1.0.4",
     "postman-collection": "4.1.2",
-    "postman-collection-transformer": "4.1.4",
+    "postman-collection-transformer": "4.1.6",
     "postman-request": "2.88.1-postman.31",
     "postman-runtime": "7.28.4",
     "pretty-ms": "7.0.1",
@@ -82,7 +82,7 @@
     "recursive-readdir": "^2.2.2",
     "server-destroy": "^1.0.1",
     "shelljs": "^0.8.4",
-    "sinon": "^12.0.1",
+    "sinon": "^13.0.2",
     "xml2js": "^0.4.23"
   },
   "engines": {
